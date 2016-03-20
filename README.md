@@ -1,4 +1,4 @@
 FateOne Resources
 ========
 
-See https://github.com/simnalamburt/FateOne
+See [simnalamburt/FateOne](https://github.com/simnalamburt/FateOne)
